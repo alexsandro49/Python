@@ -1,7 +1,5 @@
 #Analisa um texto.
 
-from itertools import count
-
 nome = str(input('Digite seu nome completo: '))
 print('Analisando...')
 print(f'Seu nome em maiúsculas é {nome.upper()}.')
