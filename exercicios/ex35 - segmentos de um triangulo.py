@@ -11,4 +11,4 @@ a3 = float(input('Terceiro segmento: '))
 if a1 < a2 + a3 and a2 < a1 + a3 and a3 < a1 + a2:
     print('Os segmentos podem formar um triângulo!')
 else:
-    print('Os segmento não podem formar um triângulo!')
+    print('Os segmentos não podem formar um triângulo!')
