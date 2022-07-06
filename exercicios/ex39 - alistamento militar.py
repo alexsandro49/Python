@@ -1,7 +1,9 @@
 #Calcula quando foi/será o alistamento do usuário.
 
+from datetime import date
+
 ano = int(input('Ano de nascimento: '))
-idade = 2022 - ano
+idade = date.today().year - ano
 
 print(f'Quem nasceu em {ano}, tem {idade} anos em 2022.')
 if idade > 18:
