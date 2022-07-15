@@ -1,4 +1,4 @@
-#Ler 5 valores, organizando sua posição por ordem crescente na lista.
+#Lê valores, organizando sua posição por ordem crescente na lista.
 
 lista = []
 

@@ -1,4 +1,4 @@
-#Ler valores, mostrando uma lista com todos os nḿeros digitados,
+#Lê valores, mostrando uma lista com todos os nḿeros digitados,
 #uma só com os valores pares e outra com os ímpares.
 
 lista = []

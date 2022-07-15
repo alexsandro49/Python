@@ -1,4 +1,4 @@
-#Ler um número, depois o escreve por escrito.
+#Lê um número, depois o escreve por escrito.
 
 escrito = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 
            'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 

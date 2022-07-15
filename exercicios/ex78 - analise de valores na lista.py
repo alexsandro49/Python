@@ -1,4 +1,4 @@
-#Ler 5 valores, mostrando a lista completa, maior e o menor valor
+#Lê 5 valores, mostrando a lista completa, maior e o menor valor
 #nas suas respectivas posições na lista.
 
 lista = []

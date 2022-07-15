@@ -1,4 +1,4 @@
-#Ler vários valores, depois mostra a quantidades de elementos digitados,
+#Lê vários valores, depois mostra a quantidades de elementos digitados,
 #mostra no formato de uma lista decrescente, além de verificar se o valor 5 está entre eles. 
 
 lista = []

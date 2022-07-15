@@ -1,4 +1,4 @@
-#Ler 4 valores, e mostra quantas vezes apareceu o número 9,
+#Lê 4 valores, e mostra quantas vezes apareceu o número 9,
 #a posição do número 3 e a quantidade de valores pares.
 
 print('=-='*12)
