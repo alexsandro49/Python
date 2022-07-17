@@ -1,4 +1,4 @@
-#Soma 2 numeros reais.
+#Soma 2 números reais.
 
 n1 = float(input('Primeiro numero: '))
 n2 = float(input('Segundo numero: '))

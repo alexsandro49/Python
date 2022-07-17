@@ -1,4 +1,4 @@
-#Lê um número, depois o escreve por escrito.
+#Escreve por extenso um número escolhido pelo usuário (0-20).
 
 escrito = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 
            'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 

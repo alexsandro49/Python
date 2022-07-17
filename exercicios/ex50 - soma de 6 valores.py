@@ -1,4 +1,4 @@
-#Lê 6 valores, somando apenas os pares.
+#Pergunta 6 valores, somando apenas os pares.
 
 s = 0
 for c in range(0, 6):

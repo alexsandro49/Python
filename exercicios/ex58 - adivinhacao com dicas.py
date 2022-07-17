@@ -8,7 +8,6 @@ computador = randint(0, 10)
 print('Pensei em um número entre 0 e 10.')
 print('Tente adivinhar que número foi...')
 loop = True
-
 while loop == True:
     c += 1
     n = int(input('Seu palpite: '))

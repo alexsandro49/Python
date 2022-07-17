@@ -1,4 +1,4 @@
-#Calcula o aluguel de um carro (R$60 por dia e R$0.15 por km).
+#Calcula o aluguel de um carro (R$60/dia e R$0.15/km).
 
 d = int(input('Quantos dias alugados? '))
 km = float(input('Quantos km rodados? '))

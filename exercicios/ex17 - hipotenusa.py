@@ -1,4 +1,4 @@
-#Calcula a hipotenusa.
+#Calcula a hipotenusa de um triângulo.
 
 from math import hypot
 co = float(input('Comprimento do cateto oposto: '))

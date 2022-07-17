@@ -1,4 +1,4 @@
-#Lê dados para um cadastro de pessoas, mostra a número de cadastrados,
+#Pergunta dados para um cadastro de pessoas, mostra a número de cadastrados,
 #além dos nomes das pessoas com o maior e o menorm, respectivamente.
 
 lista = []

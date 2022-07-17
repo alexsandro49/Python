@@ -11,6 +11,5 @@ for c in range(1, 8):
         maiores += 1
     else:
         menores += 1
-
 print(f'Ao todo tivemos {maiores} pessoas maiores de idade')
 print(f'E também {menores} pessoas menores de idade')

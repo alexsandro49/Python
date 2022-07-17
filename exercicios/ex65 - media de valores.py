@@ -1,4 +1,4 @@
-#Lê valores que o usuário digitar, mostra a quantidade, a média,
+#Coleta valores que o usuário digita, mostrando a quantidade, a média,
 #o maior e o menor valor apresentado.
 
 soma = contador = numero = 0

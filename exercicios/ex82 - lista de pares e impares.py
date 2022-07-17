@@ -1,5 +1,5 @@
-#Lê valores, mostrando uma lista com todos os nḿeros digitados,
-#uma só com os valores pares e outra com os ímpares.
+#Coleta valores, mostrando uma lista com todos os números digitados,
+#send uma com os valores pares e outra com os ímpares.
 
 lista = []
 pares = []

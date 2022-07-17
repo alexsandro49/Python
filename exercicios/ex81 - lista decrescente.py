@@ -1,4 +1,4 @@
-#Lê vários valores, depois mostra a quantidades de elementos digitados,
+#Pergunta vários valores, depois mostra a quantidades de elementos digitados,
 #mostra no formato de uma lista decrescente, além de verificar se o valor 5 está entre eles. 
 
 lista = []
@@ -16,7 +16,6 @@ while True:
             break
         else:
             print('Opção inválida.')
-
 print('=-='*20)
 print(f'Você digitou {len(lista)} elementos.')
 print(f'Os valores em ordem decrescente são: {sorted(lista, reverse=True)}')

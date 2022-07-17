@@ -12,7 +12,6 @@ while loop == True:
     print('     [4] - novos números')
     print('     [0] - sair do programa')
     opcao = int(input('>>>>>>>>>>> Sua opção: '))
-    
     if opcao == 1:
         print('=-'*15)
         print(f'A soma entre {valor1:.1f} + {valor2:.1f} é {valor1 + valor2:.1f}.')

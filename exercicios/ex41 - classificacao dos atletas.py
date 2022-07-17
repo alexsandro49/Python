@@ -6,7 +6,6 @@ from datetime import date
 ano = int(input('Ano de nascimento: '))
 atual = date.today().year
 idade = atual - ano
-
 if idade <= 9:
     categoria = 'MIRIM'
 elif idade <= 14:

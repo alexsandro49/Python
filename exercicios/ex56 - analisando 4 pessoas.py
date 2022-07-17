@@ -19,7 +19,6 @@ for c in range(1,5):
         velho = nome
     if idade < 20 and sexo == 'F':
         mulheres += 1
-
 print(f'A média de idade do grupo é de {media / 4:.1f} anos.')
 if velho != '':
     print(f'O homem mais velho tem {maior} anos e se chama {velho}.')

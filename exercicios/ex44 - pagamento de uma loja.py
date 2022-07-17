@@ -9,7 +9,6 @@ print('[2] - à vista cartão')
 print('[3] - 2x no cartão')
 print('[4] - 3x ou mais no cartão')
 opcao = int(input('Sua opção: '))
-
 if opcao == 1:
     final = preco - (preco*0.1)
     print(f'Sua compra de R${preco} vai custar R${final:.2f}.')

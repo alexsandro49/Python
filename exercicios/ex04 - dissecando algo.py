@@ -1,4 +1,4 @@
-#Mostra as características de algo digitado pelo usuário.
+#Analisa o que foi digitado pelo usuário.
 
 algo = input('Digite algo: ')
 print(f'O tipo primitivo desse valor é {type(algo)}')

@@ -1,4 +1,4 @@
-#Lê valores, organizando sua posição por ordem crescente na lista.
+#Pergunta valores, organizando sua posição por ordem crescente na lista.
 
 lista = []
 

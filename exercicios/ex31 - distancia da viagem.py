@@ -1,6 +1,5 @@
 #Calcula o custo de uma viagem, tendo base os km.
-#km * 0.5 if viagem <= 200km else km * 0.45
-
+#R$0.50/km até 200km, acima disso, R$0.40/km
 
 distancia = float(input('Qual é a distância da viagem? '))
 if distancia <= 200:

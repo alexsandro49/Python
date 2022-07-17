@@ -8,7 +8,6 @@ print('-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=')
 escolhido = randint(0, 5)
 numero = int(input('Em que número eu pensei? '))
 print('PROCESSANDO...')
-
 if numero == escolhido:
     print('PARABÉNS! Você conseguiu vencer!')
 else:

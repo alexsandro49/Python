@@ -28,5 +28,4 @@ if mes == '11':
     mes = 'novembro'
 if mes == '12':
     mes = 'dezembro'
-
 print(f'Você nasceu no dia {dia} de {mes} de {ano}, correto?')

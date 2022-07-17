@@ -6,7 +6,6 @@ print('[1] - converter para BINÁRIO')
 print('[2] - converter para OCTAL')
 print('[3] - converter para HEXADECIMAL')
 opcao = int(input('Sua opção: '))
-
 if opcao == 1:
     print(f'{numero} convertido para BINÁRIO é igual a {bin(numero)[2:]}')
 elif opcao == 2:

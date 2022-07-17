@@ -8,7 +8,6 @@ print('[0] - PEDRA')
 print('[1] - PAPEL')
 print('[2] - TESSOURA')
 jogador = int(input('Sua jogada: '))
-
 print('JO')
 sleep(0.1)
 print('KEN')

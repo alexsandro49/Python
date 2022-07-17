@@ -2,7 +2,6 @@
 
 primeiro = int(input('Primeiro valor: '))
 segundo = int(input('Segundo valor: '))
-
 if primeiro > segundo:
     print(f'{primeiro} é maior que {segundo}')
 elif segundo > primeiro:

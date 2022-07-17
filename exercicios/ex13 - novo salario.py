@@ -1,4 +1,4 @@
-#Indica um novo salário de um funcionário com 15% de aumento.
+#Indica o novo salário de um funcionário com 15% de aumento.
 
 sal = float(input('Qual é o salário do funcionário? R$'))
 salf = sal + sal * (15 / 100)

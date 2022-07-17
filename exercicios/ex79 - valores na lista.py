@@ -1,4 +1,4 @@
-#Ler valores, perguntando o usuário quando parar.
+#Coleta valores, perguntando o usuário quando parar.
 #Por fim, mostra a lista de valores registrados.
 
 lista = []

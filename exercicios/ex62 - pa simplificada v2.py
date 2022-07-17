@@ -17,7 +17,6 @@ while c < 11:
     c += 1
 print('PAUSA')
 termos = 10
-
 while opcao != 0:
     c = 1
     opcao = int(input('Mostrar quantos dos próximos termos: '))
