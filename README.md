@@ -2,5 +2,5 @@
 
 Exercícios e programas feitos na linguagem Python.
  
- Exercícios do Curso de Python do Curso em vídeo:
+ Exercícios do Curso de Python do canal Curso em vídeo:
  https://www.youtube.com/cursoemvideo
