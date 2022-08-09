@@ -7,6 +7,7 @@ def resumo(v=0, aum=0, dim=0):
     print(f'Metade do preço: \tR${metade(v):.1f}'.replace('.',','))
     print(f'{aum}% de aumento: \tR${aumento(v, aum):.1f}'.replace('.',','))
     print(f'{dim}% de redução: \tR${reducao(v, dim):.1f}'.replace('.',','))
+    print('=-='*10)
 
 def dobro(n):
     n *= 2
